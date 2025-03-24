@@ -1,6 +1,6 @@
 # Guacamole
 ## Ingredients
-* Avocado
-* Lime
-* Salt
+* Avocado - £1.29
+* Lime - £0.31
+* Salt - £1.50
 ## Method
