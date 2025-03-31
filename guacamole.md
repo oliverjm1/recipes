@@ -4,3 +4,4 @@
 * Lime - £0.31
 * Salt - £1.50
 ## Method
+* Smash 'em up
